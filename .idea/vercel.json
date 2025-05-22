@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://TU-SITIO.force.com/MIPAGINA",
+      "destination": "https://orgfarm-43cdb3d568-dev-ed.develop.my.site.com/",
       "permanent": true
     }
   ]
