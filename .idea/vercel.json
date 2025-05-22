@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://TU-SITIO.force.com/MIPAGINA",
+      "permanent": true
+    }
+  ]
+}
